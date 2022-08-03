@@ -13,7 +13,7 @@ function Search() {
     }
   return (
     <>
-    <div>
+    <div> 
       <div>
         <div className="heading">
             Dictionary App
